@@ -1,0 +1,7 @@
+[package]
+name = "ddate"
+version = "0.1.0"
+authors = ["Raven Avalon <raven.avalon@rangle.io>"]
+
+[dependencies]
+chrono = "0.2"
